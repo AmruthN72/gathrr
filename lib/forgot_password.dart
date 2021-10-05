@@ -14,7 +14,7 @@ class ForgotPassword extends StatelessWidget {
           gradient: LinearGradient(
             begin: Alignment.topRight,
             end: Alignment.bottomLeft,
-            colors: [Color(0xFF525FF4), Color(0xFF191C3E)],
+            colors: [Color(0xFF525FF5), Color(0xFF191C3E)],
           ),
         ),
         child: Scaffold(
